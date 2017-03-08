@@ -21,6 +21,8 @@ library(nnet)
 
 #### HI STACY
 
+### HI GUIDO
+
 setwd("~/Dropbox/HCUP/2005") ## Samuel
 ###
 
@@ -81,3 +83,6 @@ CrossTable(data$variable)
 stat.desc(data_new$AGE)
 
 CrossTable(data_new$FEMALE)
+
+
+### HI GUIDO 2
