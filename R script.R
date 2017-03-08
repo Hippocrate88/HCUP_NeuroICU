@@ -19,6 +19,8 @@ library(nnet)
 
 #Set Work directory
 
+#### HI STACY
+
 setwd("~/Dropbox/HCUP/2005") ## Samuel
 ###
 
