@@ -41,6 +41,7 @@ data2 <- data_new[data_new$AGE>=18,] ## more than 18 year (18 is included)
 drops <- c("covariateA","covariateB")
 OURDATA[ , !(names(OURDATA) %in% drops)]
 
+#test for GITHub
 
 # Recoding variables as numeric
 data_new$age <- as.numeric(data_new$AGE)
